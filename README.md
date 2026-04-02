@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Raymond
 
-<!--
-**GRANLOL/GRANLOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer focused on backend and full-stack product-style projects.
 
-Here are some ideas to get you started:
+I build:
+- Telegram bots
+- Telegram WebApps
+- FastAPI backends
+- business automation tools
+- admin panels and scheduling systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+- [Booking System for Service Businesses](https://github.com/GRANLOL/raymond-solutions)
+
+## Tech Stack
+- Python
+- FastAPI
+- Aiogram
+- SQLite
+- JavaScript
+- HTML / CSS
+- VPS / nginx / systemd
+
+## What I Like Building
+- real business tools
+- practical automation
+- product-style systems with real user flows
+- admin tools and internal dashboards
+
